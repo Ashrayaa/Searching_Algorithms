@@ -46,7 +46,7 @@ d. Create a pointer in the middle
  
 	  iv. If you never find the value, return -1
 	  
-Big O Complexity of linear search
+Big O Complexity of binary search
 ----------------------------------------
 Best Case - o(1)
 
